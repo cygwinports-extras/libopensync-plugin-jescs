@@ -1,5 +1,5 @@
 category: Libs
-requires: cygwin glib2 libopensync0 libxml2 perl
+requires: glib2 libopensync0 libxml2 perl
 sdesc: "OpenSync JESCS plugin"
 ldesc: "Sun Java Enterprise System Calendar plugin for the OpenSync 
 synchronization framework"
